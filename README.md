@@ -9,7 +9,7 @@ A self-service ATM needs a program to count how many bills it will need to hand 
 
 Um caixa eletrônico de auto atendimento precisa de um programa para contar quantas cédulas ele precisará entregar a um usuário quando este solicitar um saque de um certo valor. O caixa possui cédulas de R$100, R$50, R$20, R$10 e R$5. Assim, o valor a ser sacado tem que ser entregue com estas cédulas de forma que não haja sobra ou fique faltando alguma parte do dinheiro.Escreva um programa que peça ao usuário um valor possível de ser sacado e diga quantas cédulas de cada valor serão entregues neste saque.
 
-1. Exemple / Exemplo
+1. Example / Exemplo
 ```py
 
 =-=-=-= Bem-vindo ao Caixa Eletrônico =-=-=-=
@@ -22,7 +22,7 @@ Certo, lhe entregarei:
 1 cédula(s) de R$10
 ```
 
-2. Exemple / Exemplo
+2. Example / Exemplo
 ```py
 
 =-=-=-= Bem-vindo ao Caixa Eletrônico =-=-=-=
